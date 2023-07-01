@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Blog
+title: Episode 1 
+parent: Blog
 ---
 
 Episode 1 
