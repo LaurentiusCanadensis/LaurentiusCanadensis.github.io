@@ -1,9 +1,20 @@
+---
+layout: default
+title: math
+perm_link: /math
+nav_order: 2
+---
+
+# Navigation Structure
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
-title: Math
-has_children: true
----
-
 # Math
 
 The following pages demonstrate how users can customise the current version of Just the Docs to support automatic rendering of math formulae in Markdown.
