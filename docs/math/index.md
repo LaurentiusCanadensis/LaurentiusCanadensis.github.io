@@ -2,15 +2,11 @@
 layout: default
 title: math
 perm_link: /math
-nav_order: 2
+nav_order: 1
 ---
-
-# Navigation Structure
-{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
-
 1. TOC
 {:toc}
 
