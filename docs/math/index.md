@@ -3,6 +3,7 @@ layout: default
 title: math
 perm_link: /math
 nav_order: 3
+nav_exclude: true
 ---
 
 ## Table of contents
